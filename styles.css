@@ -1,0 +1,3 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:16px;background:#f4f6f8}
+.app{max-width:900px;margin:0 auto;background:#fff;padding:16px;border-radius:8px}
+.jobform{display:flex;gap:8px;margin-bottom:12px}.jobform input{padding:8px;border-radius:6px;border:1px solid #ddd}.joblist{list-style:none;padding:0}.joblist li{display:flex;justify-content:space-between;align-items:center;padding:8px;border-bottom:1px solid #eee}.controls button{margin-left:8px;padding:6px 8px;border-radius:6px;border:none;background:#111;color:#fff;cursor:pointer}.status{margin-right:8px;font-style:italic;color:#374151}
